@@ -1,49 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<!-- /Creative Commons Public Domain -->
-<!--
-<rdf:RDF xmlns="http://web.resource.org/cc/"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-<Work rdf:about="">
-    <dc:title>New Zealand, Australia, United Kingdom, United States, 
-Bosnia and Herzegovina, Azerbaijan, Armenia, Bahamas, Belgium, Benin, 
-Bulgaria, Estonia, Finland, Gabon, Gambia, Germany, Greece, Greenland, 
-Guinea, Honduras, Israel, Jamaica, Jordan, and Romania Flags</dc:title>
-    <dc:rights><Agent>
-       <dc:title>Daniel McRae</dc:title>
-    </Agent></dc:rights>
-    <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
-</Work>
-
-<License rdf:about="http://web.resource.org/cc/PublicDomain">
-    <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
-    <permits rdf:resource="http://web.resource.org/cc/Distribution" />
-    <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
-</License>
-</rdf:RDF>
--->
-<svg id="svg618" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.0" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3211">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+<svg id="Azerbaijan" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.0" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <g id="flag" stroke-width="1pt">
-  <g id="g646" fill-rule="evenodd" transform="scale(5.3333 8)">
-   <rect id="rect622" height="20" width="120" y="20" x="0" fill="#c33"/>
-   <rect id="rect621" height="20" width="120" y="0" x="0" fill="#09c"/>
-   <rect id="rect623" height="20" width="120" y="40" x="0" fill="#093"/>
-  </g>
-  <g id="g575" transform="matrix(14.068 0 0 14.068 -494.02 -182.71)">
-   <g id="g638">
-    <path id="path637" d="m66 30c0.004 4.968-4.0248 9-8.9928 9-4.968 0.008-9.003-4.018-9.007-8.986-0.012-4.968 4.01-9.006 8.978-9.014 4.968-0.0158 9.0096 4.0033 9.0215 8.9713v0.0287z" fill="#fff"/>
-    <path id="path636" d="m66.5 30c0.0033 4.0848-3.3093 7.4-7.3941 7.4-4.0848 0.0065-7.4026-3.3034-7.4059-7.3882-0.0098-4.0848 3.2975-7.4053 7.3823-7.4118 4.0848-0.013 7.4079 3.2916 7.4177 7.3764v0.0236z" fill="#c33"/>
-   </g>
-   <polygon id="polygon574" fill-rule="evenodd" points="67 25 67.957 27.69 70.536 26.464 69.31 29.043 72 30 69.31 30.957 70.536 33.536 67.957 32.31 67 35 66.043 32.31 63.464 33.536 64.69 30.957 62 30 64.69 29.043 63.464 26.464 66.043 27.69" fill="#fff"/>
-  </g>
+  <rect fill-rule="evenodd" height="160" width="640" y="160" x="0" fill="#cc3333"/>
+  <rect fill-rule="evenodd" height="160" width="640" y="0" x="0" fill="#0099cc"/>
+  <rect fill-rule="evenodd" height="160" width="640" y="320" x="0" fill="#009933"/>
+  <path d="m307.96 365.94c-69.89 0.141-126.65-56.525-126.71-126.42-0.169-69.89 56.412-126.7 126.3-126.81 69.89-0.225 126.75 56.318 126.83 126.41 0.09 70.092-56.535 126.81-126.42 126.81z" fill="#ffffff"/>
+  <path d="m337.48 343.43c-57.465 0.141-104.14-46.472-104.19-103.94-0.141-57.465 46.389-104.18 103.85-104.27 57.465-0.183 104.21 46.306 104.28 103.94 0.07 57.631-46.486 104.27-103.95 104.27z" fill="#cc3333"/>
+  <polygon fill-rule="evenodd" transform="matrix(14.068,0,0,14.068,-494.02,-182.71)" points="69.31 30.957 70.536 33.536 67.957 32.31 67 35 66.043 32.31 63.464 33.536 64.69 30.957 62 30 64.69 29.043 63.464 26.464 66.043 27.69 67 25 67.957 27.69 70.536 26.464 69.31 29.043 72 30" fill="#ffffff"/>
  </g>
 </svg>
